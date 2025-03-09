@@ -1,0 +1,8 @@
+Enlace trello: 
+https://trello.com/invite/b/67c70157264906e73d538e14/ATTI1a327eb996e785f523a0c27308539c71BC948F7D/aeroconnect
+
+enlace figma:
+https://www.figma.com/proto/OcJFe3dVF2iaqnXA4ykRSN/Flight-Control-App-(Copy)?page-id=0%3A1&node-id=1-3088&viewport=1229%2C203%2C0.32&t=fhom2Wg6h3bDME4E-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2854
+
+enlace git:
+https://github.com/CelesteDussan/programacion-movil-2025-a-g2/tree/feature/exam-c1
