@@ -147,3 +147,9 @@ ion-checkbox {
 ## **Conclusión**
 La aplicación de lista de tareas permite a los usuarios gestionar sus tareas de manera eficiente. Se pueden agregar y eliminar tareas, seleccionar prioridades y filtrar tareas completadas. Se puede mejorar añadiendo persistencia de datos o características adicionales como edición de tareas.
 
+## 
+![Modelo relacional del ejercicio](imagenes/image.png)
+![Modelo relacional del ejercicio](imagenes/image1.png)
+![Modelo relacional del ejercicio](imagenes/image2.png)
+![Modelo relacional del ejercicio](imagenes/image3.png)
+![Modelo relacional del ejercicio](imagenes/image4.png)
